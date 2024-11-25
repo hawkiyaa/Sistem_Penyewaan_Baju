@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ pilih_login.php [L]
